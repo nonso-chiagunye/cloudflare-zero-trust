@@ -1,0 +1,4 @@
+numb,cidr
+1,x.x.x.x/24
+2,x.x.x.x/22
+3,x.x.x.x/20

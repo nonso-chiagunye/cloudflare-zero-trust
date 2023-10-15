@@ -1,0 +1,4 @@
+numb,cidr,name,ou1,ou2,description
+1,x.x.x.x/24,staging-1,staging-dept-1,staging-test-1,staging network 1
+2,x.x.x.x/22,staging-2,staging-dept-2,staging-test-2,staging network 2
+3,x.x.x.x/20,staging-3,staging-dept-3,staging-test-3,staging network 3
